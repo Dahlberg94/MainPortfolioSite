@@ -1,6 +1,6 @@
 import React from "react"
 import { Outlet, NavLink, Link } from "react-router-dom"
-import logo from "../Assets/Marcus-Svart.png"
+import logo from "../Assets/Marcus-Lila.png"
 import "../index.css"
 
 const RootLayout = () => {
