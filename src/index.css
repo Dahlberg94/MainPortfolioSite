@@ -294,7 +294,7 @@ form label span {
 
 .project img {
   max-width: 400px;
-  width: 350px;
+  width: 100%;
 }
 
 }
