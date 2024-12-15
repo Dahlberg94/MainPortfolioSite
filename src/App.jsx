@@ -14,7 +14,7 @@ import Contact from './Pages/help/Contact.jsx'
 import NotFound from './Pages/NotFound'
 import Portfolio from './layouts/Portfolio.jsx'
 import ProfileDeteails, {profileDeteailsLoader} from './Pages/profiles/ProfileDeteails.jsx'
-import ProfilesError from './pages/profiles/ProfilesError'
+
 
 //Layouts
 import RootLayout from './layouts/RootLayout'
