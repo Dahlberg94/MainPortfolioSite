@@ -20,7 +20,7 @@ const HelpLayout = () => {
                     Läs FAQ
                 </NavLink> */}
                 <NavLink className="help-layout__nav__link" to="contact">
-                    Kontakta oss (Ej i funktion)
+                    Kontakta Mig (Ej i funktion)
                 </NavLink>
             </nav>
             <Outlet />
