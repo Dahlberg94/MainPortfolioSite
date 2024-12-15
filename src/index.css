@@ -219,7 +219,10 @@ form label span {
   margin-top: 90px;
 }
 .project {
+  display: grid;
   max-width: 1200px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
 }
 
 .project img {
@@ -285,9 +288,13 @@ form label span {
 
 }
 
+.project {
+  grid-template-columns: repeat(1, 1fr);
+}
+
 .project img {
   max-width: 400px;
-  width: 200px;
+  width: 350px;
 }
 
 }
