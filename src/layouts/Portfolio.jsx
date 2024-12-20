@@ -3,7 +3,7 @@ import '../index.css'
 import pichtmlcss from '../Assets/portfoliopic/HTML-CSS.jpg'
 import picpwgen from '../Assets/portfoliopic/pwgen.jpg'
 import picmotivation from '../Assets/portfoliopic/motivation.jpg'
-import flagApp from '../Assets/portfoliopic/flagApp.jpg'
+import flagApp from '../Assets/portfoliopic/FlagApp.jpg'
 
 
 const Portfolio = () => {
